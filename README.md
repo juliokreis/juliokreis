@@ -27,6 +27,6 @@
 
 ## Feedback
 
-Se você tiver algum feedback, por favor nos deixe saber por meio de fake@fake.com
+Gostamos de feedback mais do que caldo de cana , então, por favor deixe o seu ou chama pra tomar um.
 
 
