@@ -27,6 +27,5 @@
 
 ## Feedback
 
-Gostamos de feedback mais do que caldo de cana , então, por favor deixe o seu ou chama pra tomar um.
-
+Adoramos feedback mais do que caldo de cana , então, por favor deixe o seu.
 
