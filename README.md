@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" height="420" src="https://github.com/juliokreis/assets/blob/main/lifeTime5.gif"/>
+  <img width="auto" height="320" src="https://github.com/juliokreis/assets/blob/main/lifeTime5.gif"/>
 </p>
 
 # Olá, meu nome é Julio Reis, que bom te ver por aqui!
