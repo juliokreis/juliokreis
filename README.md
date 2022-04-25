@@ -1,5 +1,8 @@
-# Olá, meu nome é Julio Reis, que bom te ver por aqui!
+<p align="center">
+  <img width="100%" height="420" src="https://github.com/juliokreis/assets/blob/main/lifeTime5.gif"/>
+</p>
 
+# Olá, meu nome é Julio Reis, que bom te ver por aqui!
 
 <div align="left">
   <a href="https://github.com/juliokreis">
